@@ -1,0 +1,41 @@
+body {
+    background-color: #07071d;
+    color: #00ffcc;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .list-group-item {
+    background-color: #18183a;
+    border: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .list-group-item:hover {
+    background-color: #232347;
+  }
+  
+  .btn {
+    background-color: #00ffcc;
+    color: #07071d;
+    border: none;
+  }
+  
+  .btn:hover {
+    background-color: #00cc99;
+    color: #07071d;
+  }
+  
+  .checkbox-label {
+    margin-bottom: 0;
+    margin-left: 10px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
